@@ -1,0 +1,6 @@
+[submodule "bifrost-client"]
+	path = bifrost-client
+	url = https://github.com/GaleDragon/bifrost-client.git
+[submodule "bifrost-server"]
+	path = bifrost-server
+	url = git@heroku.com:c2g2-bifrost.git
